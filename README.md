@@ -1,4 +1,4 @@
-# Universidad Nacional de colombia
+# Universidad Nacional de Colombia
 # ActividadPOO
 # Liseth Mayerly Cuesta Alpala
-# Walter hugo Arboleda Mazo
+# Walter Hugo Arboleda Mazo
